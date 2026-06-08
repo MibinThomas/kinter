@@ -50,15 +50,7 @@ export default function Header() {
                         <li><Link href="/class-single">Class Details</Link></li>
                       </ul>
                     </li>
-                    <li className="menu-item-has-children">
-                      <Link href="/shop">Shop</Link>
-                      <ul className="submenu">
-                        <li><Link href="/shop">Shop Sidebar</Link></li>
-                        <li><Link href="/shop-single">Shop Details</Link></li>
-                        <li><Link href="/cart">Cart</Link></li>
-                        <li><Link href="/checkout">Checkout</Link></li>
-                      </ul>
-                    </li>
+
                     <li className="menu-item-has-children"><Link href="/blog">Blog</Link>
                       <ul className="submenu">
                         <li><Link href="/blog">Blog</Link></li>
