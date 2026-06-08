@@ -527,8 +527,9 @@ label {
 }
    
 .hero-slider .swiper-button-prev:before {
-	font-family: "themify";
-	content: "\e629";
+	font-family: "Font Awesome 5 Pro";
+	font-weight: 900;
+	content: "\f104";
 	font-size: 20px;
 	color: #fff;
 }
@@ -538,8 +539,9 @@ label {
 }
    
 .hero-slider .swiper-button-next:before {
-	font-family: "themify";
-	content: "\e628";
+	font-family: "Font Awesome 5 Pro";
+	font-weight: 900;
+	content: "\f105";
 	font-size: 20px;
 	color: #fff;
 }
